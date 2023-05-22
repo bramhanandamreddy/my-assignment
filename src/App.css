@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.health-data {
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.emergency-contacts {
+  list-style-type: none;
+  padding: 0;
+}
+
+button {
+  margin-top: 20px;
+}
